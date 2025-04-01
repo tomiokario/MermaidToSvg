@@ -31,4 +31,3 @@
    - `diagram.svg` : 出力される SVG ファイル
 
 3. 正常に実行されると、指定した出力先に SVG ファイルが生成されます。
-# MermaidToSvg
